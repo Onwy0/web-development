@@ -1,0 +1,142 @@
+.header__menu
+{
+	list-style-type: none;
+	font: normal 500 16px / 19.5px Montserrat;
+}
+
+.button
+{
+    background-color: #05090C;
+    border-radius: 4.59px;
+    font: normal 600 16px / 16.46px Montserrat;
+	color: #FFF;
+}
+
+.header__button
+{
+	width: 247px;
+	height: 55px;
+}
+
+.button__text
+{
+    padding: 19px 40px;
+}
+
+.registration__text
+{
+	font: normal 600 100px / 122.35px Montserrat;
+}
+
+.colortext
+{
+	color: #f6c;
+}
+
+.registration__description
+{
+	font: normal 400 26px / 31.2px Roboto Condensed;
+}
+
+.registration__button
+{
+	width: 332px;
+	height: 55px;
+}
+
+.button__text_second
+{
+    padding: 19px 82.5px;
+}
+
+.registration__illustration
+{
+	width: 762px;
+	height: 637px;
+}
+
+.focus
+{
+	width: 1920px;
+	background-color: #000;
+	font: normal 400 22px / 26px Roboto Condensed;
+	color: #FFF;
+}
+
+.icon
+{
+	width: 60px;
+	height: 60px;
+}
+
+.txt
+{
+    font: normal 400 22px / 26.4px Roboto Condensed;
+}
+
+.title
+{
+	font: normal 500 48px / 60.51px Montserrat;
+}
+
+.info
+{
+	font: normal 400 18px / 24.3px Roboto Condensed;
+}
+
+.opportunities__title
+{
+	font: normal 500 48px / 58.51px Montserrat;
+}
+
+.item
+{
+	width: 358px;
+	height: 190px;
+	border-radius: 7.36px;
+	color: #fff;
+	background-color: #000;
+	font: normal 400 18px / 21.09px Roboto Condensed;
+}
+
+.item__hand_first
+{
+	width: 37.16px;
+	height: 48px;
+}
+
+.item__hand_second
+{
+	width: 35.03px;
+	height: 48px;
+}
+
+.item__hand_third
+{
+	width: 44.94px;
+	height: 48px;
+}
+
+.item__hand_fourth
+{
+	width: 39.58px;
+	height: 48px;
+}
+
+.item__hand_fifth
+{
+	width: 49.46px;
+	height: 48px;
+}
+
+.item__hand_sixth
+{
+	width: 35.51px;
+	height: 48px;
+}
+
+.footer
+{
+	background-color: #000;
+	height: 108px;
+}
