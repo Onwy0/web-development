@@ -1,6 +1,6 @@
 SELECT 
     student.id,
-	student.full_name,
+    student.full_name,
     student.age,
     class.name
 FROM 
